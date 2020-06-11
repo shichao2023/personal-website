@@ -71,6 +71,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a second-year Ph.D. student in the Computer Science Department at Northwestern University. I received my undergraduate degree from Shanghai Jiao Tong University (ACM Honors Class) in 2018. Previously, I was a research intern at MSRA, under the supervision of Jifeng Dai. I also worked as a research assistant at Shanghai Jiao Tong University BCMI Lab, directed by Professor Liqing Zhang. My research interests focus on the intersection of machine learning and cyber-physical system.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research direction mainly focus on AI in cyber-physical system. While AI is more and more frequently included as a component of a large complex system with varies of factors included (non-AI component, human in loop, etc.), many challenges exposed in actual development and integration. Instead of simply considering AI as a stand-alone software application, we should take more issues into account -- data availability and quality, resource/timing constrain, disturbance and attacks, generalization and adaptation, etc.
+
+And my research field also related to deep learning, HVAC system, computer vision, and cyber-physical security.
