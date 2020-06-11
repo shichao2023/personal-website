@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shichao Xu
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D student of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Northwestern University
+  url: "https://www.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on the intersection of machine learning and cyber-physical system.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cyber-Physical System
+- HVAC system
+- Computer Vision
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D student in Computer Science
+    institution: Northwestern University, USA
+    year: 2019 to Present
+  - course: Summer School
+    institution: Cornell, USA
+    year: 2017  - course: BSc in Artificial Intelligence
+  - course: BSc in Computer Science
+    institution: Shanghai Jiao Tong University, China
+    year: 2014 to 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'AllenXu7@u.northwestern.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link:'#contact'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=S-9u3vYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/906476903/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
