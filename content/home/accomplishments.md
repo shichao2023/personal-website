@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2017-03-01"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   organization_url = "https://www.sjtu.edu.cn/"
   title = "Compiler Design and Implementation (MS208, Spring 2017)"
   url = "https://acm.sjtu.edu.cn/wiki/Compiler_2017"
-  date_start = "2017"
-  date_end = ""
+  date_start = "2017-03-01"
+  date_end = "2017-06-01"
   description = "Teaching Assistant"
 
 #[[item]]
