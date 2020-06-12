@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2019-09"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "USA - Advisor: Professor Qi Zhu"
   date_start = "2019-09"
   date_end = ""
-#  description = """ """
+  description = """"""
 
 [[experience]]
   title = "Intern"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "China - Advisor: Jifeng Dai"
   date_start = "2017-09"
   date_end = "2018-01"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """"""
 
 
 [[experience]]
@@ -43,6 +43,6 @@ date_format = "Jan 2006"
   location = "China - Advisor: Professor Liqing Zhang"
   date_start = "2016-07"
   date_end = "2018-06"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """"""
 
 +++
