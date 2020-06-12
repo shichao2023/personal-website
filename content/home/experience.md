@@ -37,7 +37,7 @@ date_format = "2006-01-02"
 
 
 [[experience]]
-  title = "RA"
+  title = "Research Assistant"
   company = "BCMI Lab, Shanghai Jiao Tong University"
   company_url = ""
   location = "China - Advisor: Professor Liqing Zhang"
