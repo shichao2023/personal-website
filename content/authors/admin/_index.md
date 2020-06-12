@@ -48,7 +48,7 @@ social:
   link: 'AllenXu7@u.northwestern.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link:'#contact'
+  link: '#contact'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=S-9u3vYAAAAJ&hl=en
