@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
-  company = "IDEAS - Design Automation of Intelligent Systems Lab, Northwestern University"
+  company = "IDEAS Lab, Northwestern University"
   company_url = ""
   location = "USA - Advisor: Professor Qi Zhu"
   date_start = "2019-09"
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "Brain-Like Computing and Machine Intelligence Laboratory, Shanghai Jiao Tong University"
+  company = "BCMI Lab, Shanghai Jiao Tong University"
   company_url = ""
   location = "China - Advisor: Professor Liqing Zhang"
   date_start = "2016-07"
