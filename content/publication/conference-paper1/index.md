@@ -1,5 +1,5 @@
 ---
-title: "MaskPlus: Improving Mask Generation for Instance Segmentation"
+title: "Opportunistic Intermittent Control with Safety Guarantees for Autonomous Systems"
 authors:
 - Xu Shichao
 - Lan Shuyue
@@ -63,7 +63,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
 
 
 {{% alert note %}}
