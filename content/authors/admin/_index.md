@@ -33,7 +33,7 @@ education:
     year: 2019 to Present
   - course: Summer School
     institution: Cornell, USA
-    year: 2017  - course: BSc in Artificial Intelligence
+    year: 2017
   - course: BSc in Computer Science
     institution: Shanghai Jiao Tong University, China
     year: 2014 to 2018
