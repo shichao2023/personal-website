@@ -4,11 +4,11 @@ authors:
 - Xu Shichao
 - Lan Shuyue
 - Qi Zhu
-date: "March 2020"
+date: "03/2020"
 doi: "10.1109/WACV45572.2020.9093379"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "March 2020"
+publishDate: "03/2020"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,11 +30,11 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
+# - name: Custom Link
 #  url: http://example.org
 url_pdf: '#' #https://openaccess.thecvf.com/content_WACV_2020/papers/Xu_MaskPlus_Improving_Mask_Generation_for_Instance_Segmentation_WACV_2020_paper.pdf
 url_code: '#'
-#url_dataset: '#'
+# url_dataset: '#'
 url_poster: '#'
 url_project: '#'
 url_slides: '#'
@@ -43,7 +43,7 @@ url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
+# image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #  focal_point: ""
 #  preview_only: false
@@ -71,4 +71,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 
 
 
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
