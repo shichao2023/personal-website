@@ -35,11 +35,8 @@ featured: true
 links:
 url_pdf: '#' #https://www.researchgate.net/profile/Chao_Huang29/publication/341284286_Opportunistic_Intermittent_Control_with_Safety_Guarantees_for_Autonomous_Systems/links/5ec6c77f299bf1c09ad24e26/Opportunistic-Intermittent-Control-with-Safety-Guarantees-for-Autonomous-Systems.pdf
 url_code: '#'
-url_dataset: '#'
 url_poster: '#'
-url_project: '#'
 url_slides: '#'
-url_source: '#'
 url_video: '#'
 
 # Featured image
