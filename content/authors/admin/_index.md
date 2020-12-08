@@ -23,8 +23,8 @@ bio: My research interests focus on the intersection of machine learning and cyb
 interests:
 - Artificial Intelligence
 - Cyber-Physical System
+- Machine Learning under constraint on data availability and quality
 - HVAC system
-- Computer Vision
 
 education:
   courses:
@@ -71,8 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I am a second-year Ph.D. student in the Computer Science Department at Northwestern University. I received my undergraduate degree from Shanghai Jiao Tong University (ACM Honors Class) in 2018. Previously, I was a research intern at MSRA, under the supervision of Jifeng Dai. I also worked as a research assistant at Shanghai Jiao Tong University BCMI Lab, directed by Professor Liqing Zhang. My research interests focus on the intersection of machine learning and cyber-physical system.
+I am a third-year Ph.D. candidate in the Computer Science Department at Northwestern University. I received my undergraduate degree from Shanghai Jiao Tong University (ACM Honors Class) in 2018. Previously, I was a research intern at MSRA, under the supervision of Jifeng Dai. I also worked as a research assistant at Shanghai Jiao Tong University BCMI Lab, directed by Professor Liqing Zhang. 
 
-My research direction mainly focus on AI in cyber-physical system. While AI is more and more frequently included as a component of a large complex system with varies of factors included (non-AI component, human in loop, etc.), many challenges exposed in actual development and integration. Instead of simply considering AI as a stand-alone software application, we should take more issues into account -- data availability and quality, resource/timing constrain, disturbance and attacks, generalization and adaptation, etc.
-
-And my research field also related to deep learning, HVAC system, computer vision, and cyber-physical security.
+My research direction mainly focuses on artificial intelligence in the Cyber-Physical System. While AI is more and more frequently included as a component of a large complex system with various factors included (non-AI component, human in the loop, etc.), many challenges are exposed in actual development and integration. Instead of simply considering AI as a stand-alone software application, we should take more issues into account -- data availability and quality, resource/timing constraints, disturbance and attacks, generalization and adaptation, etc.
