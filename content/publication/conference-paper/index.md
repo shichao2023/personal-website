@@ -8,7 +8,7 @@ date: "March 2020"
 doi: "10.1109/WACV45572.2020.9093379"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "March 2020"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -71,4 +71,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 
 
 
-*[^_^]: Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
