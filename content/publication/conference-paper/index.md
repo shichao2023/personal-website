@@ -30,15 +30,15 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+#- name: Custom Link
+#  url: http://example.org
 url_pdf: '#' #https://openaccess.thecvf.com/content_WACV_2020/papers/Xu_MaskPlus_Improving_Mask_Generation_for_Instance_Segmentation_WACV_2020_paper.pdf
 url_code: '#'
-url_dataset: '#'
+#url_dataset: '#'
 url_poster: '#'
 url_project: '#'
 url_slides: '#'
-url_source: '#'
+#url_source: '#'
 url_video: '#'
 
 # Featured image
@@ -65,12 +65,10 @@ slides: ""
 
 
 
-*[^_^]: {{% alert note %}}
-*[^_^]: Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-*[^_^]: {{% /alert %}}
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
 
-*[^_^]: {{% alert note %}}
-*[^_^]: Click the *Slides* button above to demo Academic's Markdown slides feature.
-*[^_^]: {{% /alert %}}
+
 
 *[^_^]: Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
