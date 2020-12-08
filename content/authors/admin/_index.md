@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year Ph.D. candidate in the Computer Science Department at Northwestern University. I received my undergraduate degree from Shanghai Jiao Tong University (ACM Honors Class) in 2018. Previously, I was a research intern at MSRA, under the supervision of Jifeng Dai. I also worked as a research assistant at Shanghai Jiao Tong University BCMI Lab, directed by Professor Liqing Zhang. 
+I am a third-year Ph.D. candidate in the Computer Science Department at Northwestern University. And I joined IDEAS Lab and my advisor is Prof Qi Zhu. I received my undergraduate degree from Shanghai Jiao Tong University (ACM Honors Class) in 2018. Previously, I was a research intern at MSRA, under the supervision of Jifeng Dai. I also worked as a research assistant at Shanghai Jiao Tong University BCMI Lab, directed by Professor Liqing Zhang. 
 
 My research direction mainly focuses on artificial intelligence in the Cyber-Physical System. While AI is more and more frequently included as a component of a large complex system with various factors included (non-AI component, human in the loop, etc.), many challenges are exposed in actual development and integration. Instead of simply considering AI as a stand-alone software application, we should take more issues into account -- data availability and quality, resource/timing constraints, disturbance and attacks, generalization and adaptation, etc.
