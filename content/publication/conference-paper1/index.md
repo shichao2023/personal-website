@@ -20,8 +20,8 @@ publishDate: "2020-05-01T00:00:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In 57th ACM/IEEE Design Automation Conference
+publication_short: In DAC
 
 abstract: "Control schemes for autonomous systems are often designed in a way that anticipates the worst case in any situation. At runtime, however, there could exist opportunities to leverage the characteristics of specific environment and operation context for more efficient control. In this work, we develop an online intermittent-control framework that combines formal verification with model-based optimization and deep reinforcement learning to opportunistically skip certain control computation and actuation to save actuation energy and computational resources without compromising system safety. Experiments on an adaptive cruise control system demonstrate that our approach can achieve significant energy and computation savings."
 
