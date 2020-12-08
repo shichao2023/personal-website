@@ -4,11 +4,11 @@ authors:
 - Xu Shichao
 - Lan Shuyue
 - Qi Zhu
-date: "03/2020"
+date: "2020-03-01T00:00:00"
 doi: "10.1109/WACV45572.2020.9093379"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "03/2020"
+publishDate: "2020-03-01T00:00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -70,5 +70,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% /alert %}}
 
 
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
