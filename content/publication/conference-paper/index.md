@@ -36,7 +36,6 @@ url_pdf: '#' #https://openaccess.thecvf.com/content_WACV_2020/papers/Xu_MaskPlus
 url_code: '#'
 # url_dataset: '#'
 url_poster: '#'
-url_project: '#'
 url_slides: '#'
 #url_source: '#'
 url_video: '#'
