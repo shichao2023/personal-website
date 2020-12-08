@@ -1,17 +1,15 @@
 ---
 title: "Opportunistic Intermittent Control with Safety Guarantees for Autonomous Systems"
 authors:
-- Chao Huang
+- Wang Lixu
 - Shichao Xu
-- Zhilu Wang
-- Shuyue Lan
-- Wenchao Li
+- Wang Xiao
 - Qi Zhu
-date: "2020-05-01T00:00:00"
+date: "2020-08-14T00:00:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-01T00:00:00"
+publishDate: "2020-08-14T00:00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,10 +18,10 @@ publishDate: "2020-05-01T00:00:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In Proceedings of the AAAI Conference on Artificial Intelligence
+publication_short: In AAAI
 
-abstract: "Control schemes for autonomous systems are often designed in a way that anticipates the worst case in any situation. At runtime, however, there could exist opportunities to leverage the characteristics of specific environment and operation context for more efficient control. In this work, we develop an online intermittent-control framework that combines formal verification with model-based optimization and deep reinforcement learning to opportunistically skip certain control computation and actuation to save actuation energy and computational resources without compromising system safety. Experiments on an adaptive cruise control system demonstrate that our approach can achieve significant energy and computation savings."
+abstract: "Federated learning (FL) is a promising approach for training decentralized data located on local client devices while improving efficiency and privacy. However, the distribution and quantity of the training data on the clients' side may lead to significant challenges such as data imbalance and non-IID (non-independent and identically distributed) data, which could greatly impact the performance of the common model. While much effort has been devoted to helping FL models converge when encountering non-IID data, the imbalance issue has not been sufficiently addressed. In particular, as FL training is executed by exchanging gradients in an encrypted form, the training data is not completely observable to either clients or server, and previous methods for data imbalance do not perform well for FL. Therefore, it is crucial to design new methods for detecting data imbalance in FL and mitigating its impact. In this work, we propose a monitoring scheme that can infer the composition proportion of training data for each FL round, and design a new loss function -- Ratio Loss to mitigate the impact of the imbalance. Our experiments demonstrate the importance of detecting data imbalance and taking measures as early as possible in FL training, and the effectiveness of our method in mitigating the impact. Our method is shown to significantly outperform previous methods, while maintaining client privacy."
 
 # Summary. An optional shortened abstract.
 summary:
@@ -33,13 +31,10 @@ tags:
 featured: true
 
 links:
-url_pdf: '#' #https://www.researchgate.net/profile/Chao_Huang29/publication/341284286_Opportunistic_Intermittent_Control_with_Safety_Guarantees_for_Autonomous_Systems/links/5ec6c77f299bf1c09ad24e26/Opportunistic-Intermittent-Control-with-Safety-Guarantees-for-Autonomous-Systems.pdf
+url_pdf: '#' #https://arxiv.org/pdf/2008.06217.pdf
 url_code: '#'
-url_dataset: '#'
 url_poster: '#'
-url_project: '#'
 url_slides: '#'
-url_source: '#'
 url_video: '#'
 
 # Featured image
