@@ -1,5 +1,5 @@
 ---
-title: "Opportunistic Intermittent Control with Safety Guarantees for Autonomous Systems"
+title: "Towards Class Imbalance in Federated Learning"
 authors:
 - Wang Lixu
 - Shichao Xu
