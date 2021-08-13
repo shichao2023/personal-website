@@ -22,9 +22,8 @@ bio: My research interests focus on the intersection of machine learning and cyb
 
 interests:
 - Artificial Intelligence
+- Learning with imperfect data
 - Cyber-Physical System
-- Machine Learning under constraint on data availability and quality
-- HVAC system
 
 education:
   courses:
@@ -73,4 +72,4 @@ user_groups:
 
 I am a third-year Ph.D. candidate in the Computer Science Department at Northwestern University, and my advisor is Prof Qi Zhu. I received my undergraduate degree from Shanghai Jiao Tong University (ACM Honors Class) in 2018. Previously, I was a research intern at MSRA, under the supervision of Jifeng Dai. I also worked as a research assistant at Shanghai Jiao Tong University BCMI Lab, directed by Professor Liqing Zhang. 
 
-My research direction mainly focuses on artificial intelligence in the Cyber-Physical System. While AI is more and more frequently included as a component of a large complex system with various factors included (non-AI component, human in the loop, etc.), many challenges are exposed in actual development and integration. Instead of simply considering AI as a stand-alone software application, we should take more issues into account -- data availability and quality, resource/timing constraints, disturbance and attacks, generalization and adaptation, etc.
+My research interests lie in the field of Artificial Intelligence and Cyber-Physical System, especially with the topic of learning with imperfect data. While AI is more and more frequently included as a component of a large complex system with various factors included (non-AI component, human in the loop, etc.), many challenges are exposed in actual development and integration. Instead of simply considering AI as a stand-alone software application, we should take more issues into account -- data availability and quality, resource/timing constraints, disturbance and attacks, generalization and adaptation, etc.
