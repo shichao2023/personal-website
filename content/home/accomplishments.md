@@ -23,8 +23,8 @@ date_format = "2017-03-01"
   organization_url = "https://www.sjtu.edu.cn/"
   title = "Compiler Design and Implementation (MS208, Spring 2017)"
   url = "https://acm.sjtu.edu.cn/wiki/Compiler_2017"
-  date_start = "2017-03-01"
-  date_end = "2017-06-01"
+  #date_start = "2017-03-01"
+  #date_end = "2017-06-01"
   description = "Teaching Assistant"
 
 #[[item]]
